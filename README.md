@@ -77,3 +77,6 @@ Para ejecutar los notebooks y replicar el análisis, necesitas instalar las sigu
 3. Sigue los notebooks en el orden sugerido para entender todo el flujo del análisis.
 
 ## Licencia
+Este proyecto está licenciado bajo la [MIT License][license]. Consulte [License][license] para obtener más información.
+
+[license]: https://github.com/Vikktor93/global-air-pollution-linear-regression/blob/main/LICENSE
